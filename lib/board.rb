@@ -1,2 +1,2 @@
 board="variable"
-board=["a","b","c","d","e","f","g","h", " "]
+board=["a","b","c","d","e","f","g","h"," "]
